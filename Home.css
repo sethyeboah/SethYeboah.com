@@ -22,8 +22,15 @@
   padding-bottom: 0;
 }
 
-.u-section-1 .u-text-1 {
+/* .u-section-1 .u-text-1 {
   font-size: 7.5rem;
+  line-height: 1.1;
+  font-weight: 700;
+  margin: 0;
+} */
+
+.u-section-1 .u-text-1 {
+  font-size: 5.5rem;
   line-height: 1.1;
   font-weight: 700;
   margin: 0;
